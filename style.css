@@ -29,7 +29,8 @@
     body {
       background: url(calculator.jpg);
       background-repeat: no-repeat;
-      background-position: 0%;
+      background-size: cover;
+      background-position: cover%;
     }
     .text-center {
       text-align: center;
