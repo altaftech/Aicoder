@@ -6,9 +6,10 @@
       font-family: "Roboto", sans-serif;
     }
     .button {
+      font-size: 1rem;
       font-weight: bold;
       width: 67px;
-      padding: 20px;
+      padding: 15px;
       margin: 0 3px;
       border: 2px solid black;
       border-radius: 5px;
@@ -20,6 +21,8 @@
       margin: 5px 0;
     }
     .row input {
+      background-color: #763C52;
+      color: white;
       width: 295px;
       font-size: 20px;
       margin: 0;
