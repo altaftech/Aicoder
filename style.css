@@ -4,6 +4,7 @@
       height: 100%;
       width: 100%;
       font-family: "Roboto", sans-serif;
+      user-select: none;
     }
     .button {
       font-size: 1rem;
@@ -21,6 +22,7 @@
       margin: 5px 0;
     }
     .row input {
+      text-align: right;
       background-color: rgba(0,0,0,0.3);
       color: white;
       width: 295px;
