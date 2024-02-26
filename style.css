@@ -21,7 +21,7 @@
       margin: 5px 0;
     }
     .row input {
-      background-color: #763C52;
+      background-color: rgba(0,0,0,0.3);
       color: white;
       width: 295px;
       font-size: 20px;
